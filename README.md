@@ -23,6 +23,7 @@ Please feel free to create [pull requests](https://github.com/keonkim/awesome-nl
    - [C++](#user-content-c++)
    - [Java](#user-content-java)
    - [Scala](#user-content-scala)
+   - [Spark](#user-content-spark)
    - [R](#user-content-R)
    - [Clojure](#user-content-clojure)
    - [Ruby](#user-content-ruby)
@@ -156,6 +157,10 @@ Bayesian, statistics and Linguistics approaches for Natural Language Processing 
   * [tm](https://github.com/ispras/tm) - Implementation of topic modeling based on regularized multilingual [PLSA](https://en.wikipedia.org/wiki/Probabilistic_latent_semantic_analysis).
   * [word2vec-scala](https://github.com/Refefer/word2vec-scala) - Scala interface to word2vec model; includes operations on vectors like word-distance and word-analogy.
   * [Epic](https://github.com/dlwh/epic) - Epic is a high performance statistical parser written in Scala, along with a framework for building complex structured prediction models.
+
+
+* <a id="spark">**Spark** - Spark NLP Libraries</a> | [Back to Top](#contents)
+  * [Spark-NLP](https://github.com/JohnSnowLabs/spark-nlp) - A Natural Language Processing library built on top of Apache Spark ML providing NLP annotations for machine learning pipelines that scale in distributed environments.
 
 * <a id="R">**R** - R NLP Libraries</a> | [Back to Top](#contents)
   * [text2vec](https://github.com/dselivanov/text2vec) - Fast vectorization, topic modeling, distances and GloVe word embeddings in R.
